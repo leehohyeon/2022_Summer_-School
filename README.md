@@ -88,9 +88,6 @@ Naver Homepage: <https://naver.com>
 
 ![alt text](image url "image Title")
 
-// examle 1
-![alt text](chim chak.png "Oxford")
-
 // examle 2
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
