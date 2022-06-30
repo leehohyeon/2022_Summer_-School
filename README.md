@@ -87,6 +87,7 @@ Naver Homepage: <https://naver.com>
 ## 7. Images
 
 // examle 1
+
 ![alt text](chim chak.png "chimchak")
 
 // examle 2
