@@ -30,9 +30,6 @@ Markdown 개요
 
 	한 줄을 띄어쓰지 않으면 줄바꿈 인식 제대로 안됨
 
-	4개의 공백 또는 하나의 탭으로 들여쓰기
-		들여쓰지 않은 행을 만날 때 까지 반환이 계속된다
-	한 줄을 띄어쓰지 않으면 줄바꿈 인식 제대로 안됨
 ``` Python
 e_tot = 0
 o_tot = 0
@@ -42,7 +39,16 @@ for x in range(1, 101):
 
 print("1~100까지 짝수 합 : {0}, 홀수 합 : {1}" .format(e_tot, o_tot))
 ```
-## 4.1 경사하강법
+## 4.1 Draw Line
+* * *
+***
+*****
+- - -
+-----------------
 
+## 5.1 Link
+// examle
+Link: [google][googlelink]
+[googlelink]: https://google.co.uk "Let's Go Google"
 
 
