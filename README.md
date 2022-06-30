@@ -33,8 +33,7 @@ Markdown 개요
 	4개의 공백 또는 하나의 탭으로 들여쓰기
 		들여쓰지 않은 행을 만날 때 까지 반환이 계속된다
 	한 줄을 띄어쓰지 않으면 줄바꿈 인식 제대로 안됨
-<pre>
-<code>
+``` Python
 e_tot = 0
 o_tot = 0
 for x in range(1, 101):
@@ -42,9 +41,7 @@ for x in range(1, 101):
     else: o_tot += x
 
 print("1~100까지 짝수 합 : {0}, 홀수 합 : {1}" .format(e_tot, o_tot))
-</pre>
-</code>
-
+```
 ## 4.1 경사하강법
 
 
