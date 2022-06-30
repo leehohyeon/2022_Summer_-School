@@ -86,7 +86,8 @@ Naver Homepage: <https://naver.com>
 
 ## 7. Images
 
-![alt text](image url "image Title")
+// examle 1
+![alt text](chim chak.png "chimchak")
 
 // examle 2
 Inline-style:
@@ -95,3 +96,11 @@ Inline-style:
 * 크기 조절
 
 <img src="chim chak.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+## 8. Footnotes(각주)
+
+'^'기호 사용
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces. 
+
