@@ -109,7 +109,7 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces. 
 
-## 8. Table
+## 9. Table
 
 // example 1
 
@@ -120,3 +120,7 @@ A footnote can also have multiple lines[^2].
 | `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
 | `fixed` | 브라우저 창을 기준으로 배치 | |
 
+## 10. 줄 바꿈
+
+일반 텍스트 문장: 문장 끝에 공백 2번(스페이스 2번)하면 줄 바꿈이 됨.  
+테이블 내에서나 일반적인 경우: <br> 사용
