@@ -61,7 +61,7 @@ Link: [google][googlelink]
 
 // examle
 
-[Google](https://google.co.uk "Let's Go Google“)
+[Google](https://google.co.uk)
 
 *자동 링크
 문서 내 일반 URL이나 꺽쇠 괄호(‘< >’) 안의 URL은 자동으로 연결
