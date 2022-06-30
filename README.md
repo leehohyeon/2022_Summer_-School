@@ -9,12 +9,12 @@ Markdown 개요
 4. HTML로 변환 가능
 5. 확장자가 .md로 된 파일
 
-## 1.1 blockqute
+## 1. blockqute
 > first blockqute
 >	> second
 >	>	> third
 
-## 2.1 List
+## 2. List
 1. 순서 있는 목록 첫번째
 2. 두번째
 3. 세번째
@@ -23,7 +23,7 @@ Markdown 개요
  * 2
   * 3
 
-## 3.1 Code
+## 3. Code
 	4개의 공백 또는 하나의 탭으로 들여쓰기
 
 		들여쓰지 않은 행을 만날 때 까지 반환이 계속된다
@@ -39,14 +39,14 @@ for x in range(1, 101):
 
 print("1~100까지 짝수 합 : {0}, 홀수 합 : {1}" .format(e_tot, o_tot))
 ```
-## 4.1 Draw Line
+## 4. Draw Line
 * * *
 ***
 *****
 - - -
 -----------------
 
-## 5.1 Link
+## 5. Link
 *참조 링크
 
 // examle
@@ -73,4 +73,13 @@ Google Homepage: https://google.co.uk
 
 Naver Homepage: <https://naver.com>
 
+## 6. Emphasis(강조)
 
+// examle
+이텔릭체 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용
+
+두껍게는 ** 별표(asterisks)* 혹은 __언더바(underscore)__를 사용
+
+**_이텔릭체_와 두껍게**를 같이 사용할 수 있음
+
+취소선은 ~~물결표시(tilde)~~를 사용
