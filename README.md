@@ -47,8 +47,30 @@ print("1~100까지 짝수 합 : {0}, 홀수 합 : {1}" .format(e_tot, o_tot))
 -----------------
 
 ## 5.1 Link
+*참조 링크
+
 // examle
+
 Link: [google][googlelink]
+
 [googlelink]: https://google.co.uk "Let's Go Google"
+
+*외부 링크
+
+[Title](link)
+
+// examle
+
+[Google](https://google.co.uk "Let's Go Google“)
+
+*자동 링크
+문서 내 일반 URL이나 꺽쇠 괄호(‘< >’) 안의 URL은 자동으로 연결
+일반적인 URL 혹은 이메일 주소인 경우
+
+// examle
+
+Google Homepage: https://google.co.uk
+
+Naver Homepage: <https://naver.com>
 
 
