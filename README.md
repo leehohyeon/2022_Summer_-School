@@ -47,7 +47,7 @@ print("1~100까지 짝수 합 : {0}, 홀수 합 : {1}" .format(e_tot, o_tot))
 -----------------
 
 ## 5. Link
-*참조 링크
+* 참조 링크
 
 // examle
 
@@ -55,7 +55,7 @@ Link: [google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go Google"
 
-*외부 링크
+* 외부 링크
 
 [Title](link)
 
@@ -63,7 +63,7 @@ Link: [google][googlelink]
 
 [Google](https://google.co.uk)
 
-*자동 링크
+* 자동 링크
 문서 내 일반 URL이나 꺽쇠 괄호(‘< >’) 안의 URL은 자동으로 연결
 일반적인 URL 혹은 이메일 주소인 경우
 
@@ -88,7 +88,7 @@ Naver Homepage: <https://naver.com>
 
 // examle 1
 
-![alt text](chim chak.png "chimchak")
+![chimchakman](chim chak.png "chimchak")
 
 // examle 2
 Inline-style:
@@ -111,5 +111,12 @@ A footnote can also have multiple lines[^2].
 
 ## 8. Table
 
+// example 1
 
+| 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 | |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
+| `fixed` | 브라우저 창을 기준으로 배치 | |
 
