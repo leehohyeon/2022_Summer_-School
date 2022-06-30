@@ -89,8 +89,11 @@ Naver Homepage: <https://naver.com>
 ![alt text](image url "image Title")
 
 // examle 1
+![alt text](chim chak.png "이병건")
 
-![침착맨](chim chak.png "이병건")
+// examle 2
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 * 크기 조절
 
